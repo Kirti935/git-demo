@@ -1,2 +1,1 @@
-# kirti-php-cicd
-Php Web Demo
+git practical repo
